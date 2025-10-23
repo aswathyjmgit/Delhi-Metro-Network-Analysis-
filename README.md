@@ -39,3 +39,5 @@ The Delhi Metro Network Power BI Dashboard provides a clear visualization of how
 Through proper data cleaning, modeling, and visual analysis, it highlights the efficiency and scale of one of India’s largest urban transit systems.
 
 **📂 Dataset-**_Delhi-Metro-Network.csv
+
+Contains: Metro Line Name, Station Name, Opening Date, Distance, and other operational details.
